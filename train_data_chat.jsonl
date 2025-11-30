@@ -1,0 +1,46 @@
+{"messages": [{"role": "user", "content": "Elma kaç kalori?"}, {"role": "assistant", "content": "1 adet orta boy elma yaklaşık 80-95 kalori arasındadır."}]}
+{"messages": [{"role": "user", "content": "Pilav mı makarna mı daha sağlıklı?"}, {"role": "assistant", "content": "Miktara bağlıdır fakat lif ve protein oranı nedeniyle tam buğday makarna daha avantajlıdır."}]}
+{"messages": [{"role": "user", "content": "Günlük ne kadar su içmeliyim?"}, {"role": "assistant", "content": "Kilonu 0.033 ile çarp. Örneğin 70 kg biri için yaklaşık 2.3 litre uygundur."}]}
+{"messages": [{"role": "user", "content": "Kilo vermek için en iyi kardiyo?"}, {"role": "assistant", "content": "Eğimi artırılmış hızlı yürüyüş en sürdürülebilir ve eklem dostu yöntemdir."}]}
+{"messages": [{"role": "user", "content": "Avokado sağlıklı mı?"}, {"role": "assistant", "content": "Evet, tekli doymamış yağ içerir ve kalp sağlığı için faydalıdır ama kalorisi yüksektir."}]}
+{"messages": [{"role": "user", "content": "Geceleri ne yiyebilirim?"}, {"role": "assistant", "content": "Lor peyniri, yoğurt, light kefir veya bir avuç kuruyemiş uygundur."}]}
+{"messages": [{"role": "user", "content": "Kafein zararlı mı?"}, {"role": "assistant", "content": "Günlük 400 mg’ın altı çoğu kişi için güvenlidir, fazlası çarpıntı yapabilir."}]}
+{"messages": [{"role": "user", "content": "Yeşil çay yağ yakar mı?"}, {"role": "assistant", "content": "Tek başına değil ama metabolizmayı hafif hızlandırır."}]}
+{"messages": [{"role": "user", "content": "Ekmek yemeli miyim?"}, {"role": "assistant", "content": "Tam tahıllı tercih edersen lif ve tokluk avantajı sağlar."}]}
+{"messages": [{"role": "user", "content": "Omega 3 ne işe yarar?"}, {"role": "assistant", "content": "Beyin fonksiyonu, inflamasyon kontrolü ve kalp sağlığı için gereklidir."}]}
+{"messages": [{"role": "user", "content": "Uyku düzenimi nasıl düzeltirim?"}, {"role": "assistant", "content": "Sabah güneş ışığı, akşam ekran azaltma ve sabit yatış saati zorunludur."}]}
+{"messages": [{"role": "user", "content": "Sabah aç karnına kardiyo iyi mi?"}, {"role": "assistant", "content": "Yağ yakımını anlamlı artırmaz, enerji düşükse performans zarar görür."}]}
+{"messages": [{"role": "user", "content": "Çok su içmek zararlı mı?"}, {"role": "assistant", "content": "Aşırı tüketimde elektrolit dengesini bozarak hiponatremi riski yaratır."}]}
+{"messages": [{"role": "user", "content": "Gluten zararlı mı?"}, {"role": "assistant", "content": "Çölyak veya intolerans yoksa hayır, bilimsel bir risk yok."}]}
+{"messages": [{"role": "user", "content": "Kırmızı et kanser yapar mı?"}, {"role": "assistant", "content": "İşlenmiş et risklidir; normal kırmızı et ise aşırıya kaçmadan tüketildiğinde sorun değildir."}]}
+{"messages": [{"role": "user", "content": "Kas yapmak için ne yemeliyim?"}, {"role": "assistant", "content": "Yeterli protein, düzenli karbonhidrat ve dengeli yağ şarttır."}]}
+{"messages": [{"role": "user", "content": "Protein fazla alınırsa ne olur?"}, {"role": "assistant", "content": "Böbrek sağlıklıyken problem yaratmaz ama aşırı alım sindirim sorunlarına neden olabilir."}]}
+{"messages": [{"role": "user", "content": "Şeker tamamen bırakılmalı mı?"}, {"role": "assistant", "content": "Tamamını değil, eklenmiş şekerleri kısmak en etkili stratejidir."}]}
+{"messages": [{"role": "user", "content": "Spor sonrası ne yemeliyim?"}, {"role": "assistant", "content": "Protein + hızlı karbonhidrat (ör: yoğurt ve muz) toparlanmayı hızlandırır."}]}
+{"messages": [{"role": "user", "content": "Kreatin zararlı mı?"}, {"role": "assistant", "content": "Sağlıklı kişilerde bilimsel olarak güvenli kabul edilir."}]}
+{"messages": [{"role": "user", "content": "Diyette tatlı krizim oluyor ne yapayım?"}, {"role": "assistant", "content": "Lif, su ve protein artır; uyku düzensizse de genelde kriz tetiklenir."}]}
+{"messages": [{"role": "user", "content": "Günde kaç öğün yemeliyim?"}, {"role": "assistant", "content": "2-4 öğün fark etmez; önemli olan sürdürülebilirlik ve kaloridir."}]}
+{"messages": [{"role": "user", "content": "Hafif kilo almak istiyorum ne önerirsin?"}, {"role": "assistant", "content": "Kalori yoğun ama sağlıklı yiyecekler: fıstık ezmesi, yulaf, avokado."}]}
+{"messages": [{"role": "user", "content": "Spor için en iyi takviye hangisi?"}, {"role": "assistant", "content": "Kreatin monohidrat en fazla araştırması olan takviyedir."}]}
+{"messages": [{"role": "user", "content": "Çok terlemek kilo kaybettirir mi?"}, {"role": "assistant", "content": "Hayır, sadece su kaybedersin."}]}
+{"messages": [{"role": "user", "content": "Yağ yakmak için koşu mu yürüyüş mü?"}, {"role": "assistant", "content": "Çoğu kişi için tempolu yürüyüş daha sürdürülebilir olduğu için daha etkilidir."}]}
+{"messages": [{"role": "user", "content": "Günde kaç adım atmalıyım?"}, {"role": "assistant", "content": "Minimum 6-8 bin, ideal 10-12 bindir."}]}
+{"messages": [{"role": "user", "content": "Uyku kaç saat olmalı?"}, {"role": "assistant", "content": "7-9 saat aralığı çoğu yetişkin için optimaldir."}]}
+{"messages": [{"role": "user", "content": "B12 eksikliği nasıl anlaşılır?"}, {"role": "assistant", "content": "Yorgunluk, unutkanlık ve karıncalanma tipik belirtilerdir."}]}
+{"messages": [{"role": "user", "content": "Eklem ağrısı için ne yapabilirim?"}, {"role": "assistant", "content": "Omega 3, D vitamini ve düşük etki gücü egzersizleri destek olur."}]}
+{"messages": [{"role": "user", "content": "Yoğurt mu süt mü daha sağlıklı?"}, {"role": "assistant", "content": "Yoğurt probiyotik içerdiği için sindirim açısından daha avantajlıdır."}]}
+{"messages": [{"role": "user", "content": "Kahve aç mı tok mu içilmeli?"}, {"role": "assistant", "content": "Tok karna içmek mide hassasiyetini azaltır."}]}
+{"messages": [{"role": "user", "content": "Kas kaybetmemek için ne yapayım?"}, {"role": "assistant", "content": "Proteini artır, uyku düzenli olsun ve ağırlık antrenmanını aksatma."}]}
+{"messages": [{"role": "user", "content": "Kilo vermek için ağırlık mı kardiyo mu?"}, {"role": "assistant", "content": "Ağırlık antrenmanı metabolizmayı artırdığı için daha güçlü etki yapar."}]}
+{"messages": [{"role": "user", "content": "Kan şekeri nasıl düşer?"}, {"role": "assistant", "content": "Lif, protein, düzenli uyku ve düşük glisemik karbonhidratlar önemlidir."}]}
+{"messages": [{"role": "user", "content": "Tatlı yerine ne yiyebilirim?"}, {"role": "assistant", "content": "Hurma-yoğurt, bitter çikolata veya meyve iyi alternatiflerdir."}]}
+{"messages": [{"role": "user", "content": "Tuz zararlı mı?"}, {"role": "assistant", "content": "Günlük 5 gramın üstü risklidir; spor yapıyorsan biraz daha tolerans vardır."}]}
+{"messages": [{"role": "user", "content": "Haftada kaç gün spor yapmalıyım?"}, {"role": "assistant", "content": "3-5 gün arası sürdürülebilir performans için idealdir."}]}
+{"messages": [{"role": "user", "content": "Diyette ekmek yenir mi?"}, {"role": "assistant", "content": "Tam tahıllı, porsiyon kontrollü şekilde evet."}]}
+{"messages": [{"role": "user", "content": "Hızlı kilo vermek sağlıklı mı?"}, {"role": "assistant", "content": "Hayır, kas kaybı ve metabolik yavaşlamaya yol açar."}]}
+{"messages": [{"role": "user", "content": "Yoğun stres kilo aldırır mı?"}, {"role": "assistant", "content": "Kortizol artışı iştahı tetikleyebilir, özellikle şekerli yiyecek isteğini artırır."}]}
+{"messages": [{"role": "user", "content": "En iyi gece atıştırmalığı?"}, {"role": "assistant", "content": "Protein ağırlıklı: lor peyniri, yoğurt veya kefir."}]}
+{"messages": [{"role": "user", "content": "Karbonhidratı tamamen keseyim mi?"}, {"role": "assistant", "content": "Kesmek performans ve uykuya zarar verir, dengelemen yeterlidir."}]}
+{"messages": [{"role": "user", "content": "Fast food tamamen yasak mı?"}, {"role": "assistant", "content": "Hayır, haftada 1 kontrollü tüketim sürdürülebilirlik için daha iyidir."}]}
+{"messages": [{"role": "user", "content": "Peynir sağlıklı mı?"}, {"role": "assistant", "content": "Protein ve kalsiyum kaynağıdır; sadece yağ oranına dikkat etmek gerekir."}]}
+{"messages": [{"role": "user", "content": "Tarhana sağlıklı mı?"}, {"role": "assistant", "content": "Fermente bir gıda olduğu için probiyotik etki gösterir ve uzun süre tok tutar."}]}
